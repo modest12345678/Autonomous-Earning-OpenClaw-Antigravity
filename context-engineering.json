@@ -1,0 +1,8 @@
+# context-engineering.json
+{
+  "active": true,
+  "methodology": "progressive-disclosure",
+  "grading_threshold": 95,
+  "memory_format": "jsonl-append-only",
+  "tools": ["kilo-cli", "evaluator-agent"]
+}
